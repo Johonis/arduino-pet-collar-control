@@ -1,6 +1,5 @@
 # Dog collar protocol
 
-This is my first Github publication. I'm not a native english speaker, so please do not judge :P
 We've analysed a protocol of a pet collar we've bought from [Aliexpress](https://de.aliexpress.com/item/Rechargeable-Electric-Dog-Collar-300M-Remote-Dog-Training-Collar-Free-Shipping-Electric-Shock-And-Vibration-Collar/32441164095.html?spm=a2g0s.9042311.0.0.eaFVsL).
 This was done with a cheap protocol analyser also bought from [Aliexpress](https://de.aliexpress.com/item/1set-New-Arrival-USB-Logic-Analyze-24M-8CH-MCU-ARM-FPGA-DSP-debug-tool/1963100593.html?spm=a2g0s.9042311.0.0.SQuyQZ).
 
